@@ -1,0 +1,7 @@
+com\taskmanager\MainApp.class
+com\taskmanager\controller\TaskController$1.class
+com\taskmanager\db\DatabaseHandler.class
+com\taskmanager\model\Task.class
+com\taskmanager\controller\TaskController.class
+com\taskmanager\App.class
+com\taskmanager\exception\InvalidTaskException.class
