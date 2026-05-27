@@ -20,11 +20,11 @@ A full-featured desktop task management application built with **Java**, **JavaF
 
 ## 📸 Screenshots
 
-### 🌙 Dark Mode
-![Dark Mode](screenshots/Screenshot%202026-05-27%20052049.png)
-
 ### ☀️ Light Mode
-![Light Mode](screenshots/Screenshot%202026-05-27%20052114.png)
+![Light Mode](screenshots/Screenshot%202026-05-27%20052049.png)
+
+### 🌙 Dark Mode
+![Dark Mode](screenshots/Screenshot%202026-05-27%20052114.png)
 
 ---
 
